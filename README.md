@@ -66,7 +66,7 @@ $ sudo apt-get install python3-gpiozero
 - Download the `music_player.py` script from GitHub.
 
 ```shell
-$ wget https://github.com/calebrodgers/..........
+$ wget https://raw.githubusercontent.com/calebrodgers/RaspberryPiMusicPlayer/main/music_player.py
 ```
 
 ## Time for some tunes!
