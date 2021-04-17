@@ -1,5 +1,7 @@
 # Simple Raspberry Pi Music Player
 
+![alt text](https://res.cloudinary.com/calebrodgers/image/upload/v1618629956/post-content/pi_music_player_image.jpg)
+
 Recently, I decided that I wanted a simple MP3 Player-like device. Unwilling to simply go out and buy one for relatively cheap, I decided to make my own using a Raspberry Pi and a handful of small electronics. While it may not look as flashy as something you might buy, money will never be able to buy the satisfaction of making something yourself!
 
 > _Make it yours! Add your own creative touch! I've intentionally left this project at some buttons on a breadboard but I'm sure that it would look great in a custom 3D printed or laser-cut enclosure!_
@@ -91,6 +93,6 @@ $ sudo nano /etc/rc.local
 python3 /home/pi/music_player.py &
 ```
 
-### That's it!
+# That's it!
 
 _For more, visit [calebrodgers.com](https://calebrodgers.com)._
